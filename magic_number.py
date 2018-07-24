@@ -3,7 +3,7 @@ def gen_magic_number():
 	return 4
 
 def get_user_number():
-	return int(input("Guess a number between 0 and 10: "))
+	return int(input("Guess a number between 0 and 12: "))
 
 def magic_number():
 
